@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется с помощью 
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("Task_2")]
+[assembly: AssemblyTitle("Task 2 new")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HOME")]
-[assembly: AssemblyProduct("Task_2")]
+[assembly: AssemblyProduct("Task 2 new")]
 [assembly: AssemblyCopyright("Copyright © HOME 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("f3431627-ba9f-4262-8865-dd6621aecdd5")]
+[assembly: Guid("ed4b668c-d280-40fe-92ea-f998c7a7dc16")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //

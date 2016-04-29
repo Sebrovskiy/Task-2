@@ -1,6 +1,0 @@
-E:\Проекты\Task_2\Task_2\bin\Debug\Task_2.exe.config
-E:\Проекты\Task_2\Task_2\bin\Debug\Task_2.exe
-E:\Проекты\Task_2\Task_2\bin\Debug\Task_2.pdb
-E:\Проекты\Task_2\Task_2\obj\Debug\Task_2.csprojResolveAssemblyReference.cache
-E:\Проекты\Task_2\Task_2\obj\Debug\Task_2.exe
-E:\Проекты\Task_2\Task_2\obj\Debug\Task_2.pdb
