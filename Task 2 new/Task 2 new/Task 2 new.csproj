@@ -43,18 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConcordanceClasses\Concordance.cs" />
-    <Compile Include="ConcordanceClasses\MakeConcordance.cs" />
-    <Compile Include="TextHandlerClasses\Punctuation.cs" />
-    <Compile Include="TextHandlerClasses\Sentence.cs" />
-    <Compile Include="TextHandlerClasses\SentenceItem.cs" />
-    <Compile Include="TextHandlerClasses\Text.cs" />
-    <Compile Include="TextHandlerClasses\Word.cs" />
-    <Compile Include="ConcordanceInterfaces\IConcordance.cs" />
-    <Compile Include="TextHandlerInterfases\IPunctuation.cs" />
-    <Compile Include="TextHandlerInterfases\ISentence.cs" />
-    <Compile Include="TextHandlerInterfases\ISentenceItem.cs" />
-    <Compile Include="TextHandlerInterfases\IWord.cs" />
+    <Compile Include="Classes\Concordance.cs" />
+    <Compile Include="Classes\FileHandler.cs" />
+    <Compile Include="Classes\Sentence.cs" />
+    <Compile Include="Classes\Text.cs" />
+    <Compile Include="Interfases\IConcordance.cs" />
+    <Compile Include="Interfases\ISentence.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Types\SentenceType.cs" />
