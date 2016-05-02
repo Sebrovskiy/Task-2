@@ -9,8 +9,8 @@ namespace Task_2_new.Interfases
 {
     public interface ISentence
     {
-        SentenceType SentenceType { get; set; }
-        List<ISentenceItem> MySentence { get; set; }
+        SentenceType SentenceType { get; }
+        List<ISentenceItem> MySentence { get; }
         int GetWordsCount();
     }
 }

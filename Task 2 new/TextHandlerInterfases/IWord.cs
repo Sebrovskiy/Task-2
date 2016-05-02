@@ -8,6 +8,6 @@ namespace Task_2_new.Interfases
 {
     public interface IWord:ISentenceItem
     {
-        string MyWord { get; set; }
+        string MyWord { get; }
     }
 }
